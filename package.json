@@ -1,26 +1,14 @@
 {
-  "name": "ghoststa",
-  "description": "Responsive, minimalistic, clean and content-oriented theme, inspired by GitHub. This time for Ghost.",
+  "name": "Yuurei",
   "license": "GPL-2.0",
   "version": "1.0.0",
   "author": {
-    "name": "Kevin Hirczy",
-    "email": "hello@nehalist.io",
-    "url": "http://nehalist.io"
+    "name": "miyatsuki",
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/nehalist/ghoststa"
+    "url": "https://github.com/miyatsuki/Yuurei"
   },
-  "bugs": {
-    "url": "https://github.com/nehalist/ghoststa/issues"
-  },
-  "keywords": [
-    "ghost",
-    "blog",
-    "theme",
-    "minimalistic"
-  ],
   "devDependencies": {
     "bower": "^1.7.1",
     "grunt": "^0.4.5",
