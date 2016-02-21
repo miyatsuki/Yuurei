@@ -1,4 +1,5 @@
 $(function() {
+/*
   // Ghosthunter configuration
   $('#search-field').ghostHunter({
     results: '#search-results',
@@ -76,4 +77,5 @@ $(function() {
       }
     }
   });
+*/
 });
