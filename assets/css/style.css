@@ -810,5 +810,5 @@ input::-webkit-inner-spin-button {
 
   table, td, th {
       border: 2px #787f87 solid;
-      padding : 10px;  
+      padding : 3px 10px;  
   }
