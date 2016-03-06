@@ -807,3 +807,8 @@ input::-webkit-inner-spin-button {
     border-bottom-right-radius: 2px;
     border-bottom-left-radius: 2px;
     border-bottom: 0; }
+
+  table, td, th {
+      border: 2px #787f87 solid;
+      padding : 10px;  
+  }
